@@ -1,0 +1,21 @@
+mat-sidenav-container{
+    height: 95%;
+}
+
+mat-sidenav-content{
+    padding: 16px;
+    margin-bottom: 10px;
+}
+
+.loader-container{
+    position: absolute;
+    height: 150%;
+    width: 97%;
+    background: black;
+    opacity: 0.9;
+    z-index: 99;
+}
+mat-spinner{
+    top: 30%;
+    left: 50%;
+}

@@ -1,0 +1,26 @@
+p{
+    
+    border: 1px solid black;
+} 
+
+mat-content{
+    width: 100px;
+}
+
+.container{
+    margin: 10px;
+    padding: 16px;
+}
+
+h4{
+    font-weight: bold;
+}
+
+.page-container {
+    margin: 10px;
+}
+
+
+mat-card-content, mat-card-actions{
+    padding: 20px;
+}
