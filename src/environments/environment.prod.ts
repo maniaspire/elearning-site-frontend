@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serverAddress: "http://api.elearnsite.tk/api/"
+  serverAddress: "http://dev.elearnsite.tk/api/"
 };
